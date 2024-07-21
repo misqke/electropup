@@ -1,0 +1,19 @@
+{
+  "name": "electropup",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^31.2.1"
+  },
+  "dependencies": {
+    "chrome-launcher": "^1.1.2",
+    "puppeteer-core": "^22.13.1"
+  }
+}
